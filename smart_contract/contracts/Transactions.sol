@@ -9,7 +9,7 @@ contract Transactions {
         uint256 amount,
         string message,
         uint256 timestamp,
-        string keyboard
+        string keyword
     );
 
     struct TransferStruct {
